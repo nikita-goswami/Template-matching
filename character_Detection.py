@@ -9,16 +9,6 @@ There are 3 sub tasks:
 2. Detect character 'b'.
 3. Detect character 'c'.
 
-You need to customize your own templates. The templates containing character 'a', 'b' and 'c' should be named as
-'a.jpg', 'b.jpg', 'c.jpg' and stored in './data/' folder.
-
-Please complete all the functions that are labelled with '# TODO'. Whem implementing the functions,
-comment the lines 'raise NotImplementedError' instead of deleting them. The functions defined in utils.py
-and the functions you implement in task1.py are of great help.
-
-Do NOT modify the code provided.
-Do NOT use any API provided by opencv (cv2) and numpy (np) in your code.
-Do NOT import any library (function, module, etc.).
 """
 
 
