@@ -1,19 +1,8 @@
 """
 Edge Detection
 
-The goal of this task is to experiment with two commonly used edge detection operator, i.e., Prewitt operator and Sobel operator,
-and familiarize you with 'tricks', e.g., padding, commonly used by computer vision 'researchers'.
+The goal of this task is to experiment with two commonly used edge detection operator, i.e., Prewitt operator and Sobel operator
 
-Please complete all the functions that are labelled with '# TODO'. Hints or steps are provided to make your lives easier.
-Whem implementing the functions, comment the lines 'raise NotImplementedError' instead of deleting them. As we have
-written lots of utility functions for you, you only need to write about 30 lines of code. The functions defined in utils.py
-are building blocks you could use when implementing the functions labelled with 'TODO'.
-
-I strongly suggest you to read the function zero_pad that is defined in utils.py. It is quite important!
-
-Do NOT modify the code provided.
-Do NOT use any API provided by opencv (cv2) and numpy (np) in your code.
-Do NOT import any library (function, module, etc.).
 """
 
 import argparse
